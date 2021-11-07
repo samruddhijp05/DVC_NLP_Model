@@ -33,3 +33,12 @@ dvc init
 ```
 
 ### STEP 06- commit and push the changes to the remote repository
+
+
+
+
+
+
+
+##for ignoring log files
+echo "*.log" >> logs/.gitignore
